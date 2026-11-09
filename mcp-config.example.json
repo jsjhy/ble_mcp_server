@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "ble_server": {
+      "url": "http://127.0.0.1:8765/sse",
+      "transport": "sse"
+    }
+  }
+}

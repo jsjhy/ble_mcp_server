@@ -1,0 +1,5 @@
+/target/
+/dist/*
+!/dist/ble_server.exe
+*.log
+blocked_devices.txt
